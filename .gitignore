@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+
+.env
+
+logs/
+*.log
+
+review_queue.db
+
+.vscode/

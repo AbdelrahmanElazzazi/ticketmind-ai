@@ -1,0 +1,35 @@
+Login Troubleshooting Guide
+
+Users may experience login issues for various reasons including incorrect credentials, browser-related problems, network restrictions, session expiration, or account configuration errors.
+
+Initial troubleshooting should begin by verifying that the user is accessing the correct login portal and entering valid credentials.
+
+Common Login Problems:
+
+- Invalid username or password
+- Session timeout
+- Browser cache corruption
+- Expired password
+- Account lockout
+- Multi-factor authentication failure
+
+Recommended Steps:
+
+1. Verify username and password.
+2. Clear browser cache and cookies.
+3. Test in an incognito browser session.
+4. Try a different browser.
+5. Verify network connectivity.
+6. Complete password reset if necessary.
+
+If login failures continue after completing all troubleshooting steps, support should review authentication logs to identify the underlying cause.
+
+Escalation Criteria:
+
+- Repeated authentication failures
+- Directory synchronization issues
+- Identity provider outages
+- Security policy conflicts
+
+Expected Resolution Time:
+Most login-related incidents should be resolved within one business hour.

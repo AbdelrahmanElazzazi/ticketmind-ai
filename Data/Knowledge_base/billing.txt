@@ -1,0 +1,29 @@
+Billing Support Guide
+
+The billing portal is responsible for managing subscriptions, invoices, payments, credits, refunds, and account balances. Customers may contact support regarding failed payments, unexpected charges, invoice discrepancies, payment method updates, or refund requests.
+
+Payment methods can be updated through the customer billing portal. Supported payment methods include credit cards, debit cards, and approved corporate payment accounts. Changes to payment information are applied immediately and affect future billing cycles.
+
+Invoices are generated automatically on the first day of each billing period and are available for download through the customer portal. Customers should verify invoice details before submitting disputes.
+
+Common Billing Issues:
+
+* Failed payment processing
+* Expired payment cards
+* Duplicate charges
+* Incorrect invoice amounts
+* Missing invoice records
+* Refund requests
+
+Troubleshooting Process:
+
+1. Verify customer account status.
+2. Review payment transaction history.
+3. Confirm active subscription plan.
+4. Validate invoice generation records.
+5. Escalate payment gateway issues when necessary.
+
+Refund requests must include a valid reason and are reviewed within five business days. Approved refunds are processed through the original payment method whenever possible.
+
+Expected Resolution Time:
+Most billing inquiries should be resolved within one business day.

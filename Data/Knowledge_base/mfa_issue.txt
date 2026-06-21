@@ -1,0 +1,30 @@
+Multi-Factor Authentication Troubleshooting Guide
+
+Multi-Factor Authentication (MFA) provides an additional security layer by requiring a second verification factor during login.
+
+Common MFA methods include authentication applications, SMS verification codes, email verification, and hardware security keys.
+
+Common Issues:
+
+* Verification code not received
+* Authentication app out of sync
+* Lost mobile device
+* Expired verification code
+* Invalid MFA token
+
+Troubleshooting Steps:
+
+1. Confirm correct MFA method.
+2. Verify device date and time synchronization.
+3. Resend verification code.
+4. Test alternate MFA method if available.
+5. Verify account security settings.
+
+If users lose access to their MFA device, identity verification must be completed before MFA reset procedures can be initiated.
+
+Security Considerations:
+
+MFA resets require additional verification and approval to prevent unauthorized account access.
+
+Expected Resolution Time:
+Most MFA issues are resolved within 30 minutes.

@@ -1,0 +1,28 @@
+Invoice Request Procedure
+
+Customers may request copies of historical invoices, tax invoices, payment confirmations, and billing statements. Invoice requests are handled through the billing support workflow.
+
+Invoices are stored securely and can be accessed through the customer portal. Customers should first attempt self-service retrieval before contacting support.
+
+When handling invoice requests, support agents must verify account ownership and ensure that requested documents belong to the customer.
+
+Common Requests:
+
+* Monthly invoice copies
+* Annual billing summaries
+* Tax documentation
+* Payment receipts
+* Subscription billing history
+
+Process:
+
+1. Verify customer identity.
+2. Confirm invoice period requested.
+3. Retrieve invoice from billing records.
+4. Deliver invoice securely.
+5. Document request completion.
+
+Invoices are generally retained for seven years unless otherwise specified by company policy.
+
+Expected Resolution Time:
+Invoice requests are typically completed within four business hours.

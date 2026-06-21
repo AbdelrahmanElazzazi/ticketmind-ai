@@ -1,0 +1,25 @@
+Subscription Upgrade Guide
+
+Customers may upgrade subscription plans to access additional features, increased usage limits, enhanced support services, and enterprise functionality.
+
+Subscription upgrades become effective immediately after successful payment confirmation. Billing adjustments are calculated using prorated pricing whenever applicable.
+
+Common Upgrade Requests:
+
+* Basic to Professional
+* Professional to Enterprise
+* User license expansion
+* Feature package activation
+
+Upgrade Procedure:
+
+1. Review current subscription.
+2. Confirm target plan.
+3. Verify pricing.
+4. Process billing adjustment.
+5. Confirm activation.
+
+Customers should review plan features carefully before upgrading to ensure alignment with business requirements.
+
+Expected Resolution Time:
+Most upgrades are completed within 15 minutes.
