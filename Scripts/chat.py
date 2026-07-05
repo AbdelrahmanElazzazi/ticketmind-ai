@@ -6,7 +6,7 @@ sys.path.append(str(Path(__file__).resolve().parent.parent))
 from src.rag import ask
 
 print("=" * 50)
-print("Resolve Ticket Assistant")
+print("TicketMind AI Assistant")
 print("Type 'exit' to quit")
 print("=" * 50)
 

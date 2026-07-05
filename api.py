@@ -11,7 +11,7 @@ from src.review_queue import (get_pending_reviews, get_review_by_id, approve_rev
 from src.webhook import process_zendesk_webhook
 from src.zendesk_client import add_comment_to_ticket
 
-app = FastAPI(title="Resolve Ticket API", version="1.0.0")
+app = FastAPI(title="TicketMind API", version="1.0.0")
 
 from src.review_queue import initialize_database
 
@@ -22,7 +22,7 @@ def home():
 
     return {
         "status": "running",
-        "service": "Resolve Ticket API"
+        "service": "TicketMind API"
     }
 
 @app.get("/health")
