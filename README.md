@@ -1,30 +1,14 @@
-# Resolve AI Agent
+# 🎫 TicketMind
 
-AI-powered Zendesk Ticket Resolution System.
+### Enterprise AI Ticket Resolution Platform
 
-## Features
-- Zendesk webhook integration
-- RAG pipeline using Pinecone
-- Gemini answer generation
-- Human review queue
-- Edit before approve workflow
-- Auto reply to Zendesk tickets
+AI-powered enterprise ticket resolution platform that automates customer support using Retrieval-Augmented Generation (RAG), Google Gemini, Pinecone, FastAPI, and Zendesk.
 
-## Tech Stack
-- Python
-- FastAPI
-- Pinecone
-- Google Gemini ( Flash 2.5 & Embedding -2)
-- SQLite
-- Zendesk API
+---
 
-## Project Structure
-- `api.py` main FastAPI app
-- `src/` core application code
-- `Data/Knowledge_base/` knowledge base files
-- `logs/` application logs
+## 🚀 Overview
 
-## Run Locally
-```bash
-pip install -r requirements.txt
-uvicorn api:app --reload
+TicketMind is an AI-powered platform designed to assist customer support teams by automatically retrieving relevant knowledge, generating accurate responses, and routing low-confidence tickets for human review.
+
+The platform integrates Google Gemini, Pinecone Vector Database, FastAPI, Prometheus, Grafana, and Zendesk to deliver fast, scalable, and reliable ticket resolution.
+

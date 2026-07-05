@@ -1,5 +1,8 @@
 from fastapi import FastAPI
 from fastapi import HTTPException
+from fastapi.responses import Response
+from prometheus_client import generate_latest
+from prometheus_client import CONTENT_TYPE_LATEST
 
 from src.rag import ask
 from src.models import (QuestionRequest, ZendeskTicket, ReviewUpdate)
@@ -27,6 +30,13 @@ def health():
     return {
         "status": "healthy"
     }
+
+@app.get("/metrics")
+def metrics():
+    return Response(
+        generate_latest(),
+        media_type=CONTENT_TYPE_LATEST
+    )
 
 @app.post("/ask")
 def ask_question(request: QuestionRequest):

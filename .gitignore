@@ -1,12 +1,40 @@
+# Virtual Environment
 venv/
+
+# Python Cache
 __pycache__/
+*.py[cod]
 *.pyc
 
+# Environment Variables
 .env
 
+# Logs
 logs/
 *.log
 
+# Local Database
 review_queue.db
 
+# VS Code
 .vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Pytest
+.pytest_cache/
+
+# Mypy
+.mypy_cache/
+
+# Ruff
+.ruff_cache/
+
+# Python Packaging
+*.egg-info/
+
+# Coverage
+.coverage
+htmlcov/
