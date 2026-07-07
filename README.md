@@ -9,6 +9,10 @@
 ![Grafana](https://img.shields.io/badge/Dashboard-Grafana-yellow)
 ![License](https://img.shields.io/badge/License-MIT-success)
 
+![Status](https://img.shields.io/badge/Status-Production_Ready-success)
+![AI](https://img.shields.io/badge/AI-Google_Gemini-blueviolet)
+![RAG](https://img.shields.io/badge/RAG-Pinecone-orange)
+
 ---
 
 # 📌 Overview
