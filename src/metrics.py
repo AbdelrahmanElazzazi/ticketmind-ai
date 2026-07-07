@@ -20,6 +20,11 @@ rejected_total = Counter(
     "Total rejected tickets"
 )
 
+no_relevant_info_total = Counter(
+    "resolve_no_relevant_info_total",
+    "Total tickets with no relevant information"
+)
+
 response_time_seconds = Histogram(
     "resolve_response_time_seconds",
     "Ticket processing time"
