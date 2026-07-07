@@ -1,40 +1,65 @@
+# ==========================
 # Virtual Environment
+# ==========================
 venv/
 
+# ==========================
 # Python Cache
+# ==========================
 __pycache__/
 *.py[cod]
 *.pyc
 
+# ==========================
 # Environment Variables
+# ==========================
 .env
 
+# ==========================
 # Logs
+# ==========================
 logs/
 *.log
 
-# Local Database
+# ==========================
+# SQLite Database
+# ==========================
 review_queue.db
+*.db
 
-# VS Code
+# ==========================
+# VS Code / IDE
+# ==========================
 .vscode/
+.idea/
 
+# ==========================
 # OS Files
+# ==========================
 .DS_Store
 Thumbs.db
 
-# Pytest
+# ==========================
+# Testing
+# ==========================
 .pytest_cache/
-
-# Mypy
-.mypy_cache/
-
-# Ruff
-.ruff_cache/
-
-# Python Packaging
-*.egg-info/
-
-# Coverage
 .coverage
 htmlcov/
+
+# ==========================
+# Type Checking / Linting
+# ==========================
+.mypy_cache/
+.ruff_cache/
+
+# ==========================
+# Python Packaging
+# ==========================
+*.egg-info/
+build/
+dist/
+
+# ==========================
+# Docker
+# ==========================
+.dockerignore
